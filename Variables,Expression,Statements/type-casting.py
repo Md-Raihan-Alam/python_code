@@ -1,0 +1,10 @@
+print(float(99)+100)
+integer=32;
+turningFloat=float(integer)
+print(type(turningFloat))
+stringValue="123"
+print(stringValue)
+turingSintoInt=int(stringValue)
+numValue=55
+turInString=str(numValue)
+print(type(turInString))

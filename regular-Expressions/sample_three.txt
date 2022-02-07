@@ -1,0 +1,8 @@
+Name:Md. Raihan Alam, Age:21
+X-Sieve: CMU Sieve 2.3
+Name:Md. Rayhan Udding, Age:22
+X-DSPAM-Result: Innocent
+Name:Rinon Ussin, Age:12
+X-DSPAM-Condfidence:0.8453
+Name:Kiloon Ussin, Age:42
+X-Content-Type-Message-Body:text/plain

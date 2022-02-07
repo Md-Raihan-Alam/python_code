@@ -1,0 +1,12 @@
+number=32
+string="Hello"
+float=432.23
+boolOne=True
+boolTwo=False
+empty=None
+print(type(number))
+print(type(string))
+print(type(float))
+print(type(boolOne))
+print(type(boolTwo))
+print(type(empty))

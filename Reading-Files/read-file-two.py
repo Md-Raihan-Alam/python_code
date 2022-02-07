@@ -1,0 +1,5 @@
+fHand = open("Sample.txt", "r")
+inp = fHand.read()
+print(inp)
+print(len(inp))
+print(inp[:20])
