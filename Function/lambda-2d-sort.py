@@ -1,0 +1,10 @@
+points2d=[(1,2),(15,1),(5,-1),(10,4)]
+points2d_sorted=sorted(points2d)
+print(points2d)
+print(points2d_sorted)
+points2d_sorted_key=sorted(points2d,key=lambda x: x[1])
+print(points2d)
+print(points2d_sorted_key)
+points2d_sorted_key_sum=sorted(points2d,key=lambda x: x[0]+x[1])
+print(points2d)
+print(points2d_sorted_key_sum)
