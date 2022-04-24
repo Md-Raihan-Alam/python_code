@@ -1,0 +1,17 @@
+{
+    "firstName":"MD. Raihan",
+    "lastName":" Alam",
+    "hobbies":["traveling","gaming","reading"],
+    "age":28,
+    "hasChildren":true,
+    "children":[
+        {
+            "firstName":"Rabi",
+            "age":5
+        },
+        {
+            "firstName":"Mariam",
+            "age":8
+        }
+    ]
+}
