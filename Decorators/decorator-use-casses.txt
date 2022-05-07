@@ -1,0 +1,6 @@
+# time counting
+# debug 
+# check prog
+# register func
+# cache return values
+# update state
