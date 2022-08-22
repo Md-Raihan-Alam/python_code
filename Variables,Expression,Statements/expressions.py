@@ -12,3 +12,6 @@ jj=32/8#division
 print(jj)
 pow=4**3#power
 print(pow)
+kk=5
+flr=kk//2#floor
+print(flr)

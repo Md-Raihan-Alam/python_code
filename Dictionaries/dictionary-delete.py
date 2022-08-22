@@ -7,3 +7,4 @@ myDict2.pop("age")
 print(myDict2)
 myDict2.popitem()
 print(myDict2)
+# diff between pop and popitem

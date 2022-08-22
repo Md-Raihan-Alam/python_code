@@ -1,0 +1,12 @@
+def count():
+    count=0
+    def increment():
+        nonlocal count
+        count=count+1
+        return count
+    return increment
+
+increment=count()
+print(increment())
+print(increment())
+print(increment())

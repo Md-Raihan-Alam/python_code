@@ -13,3 +13,11 @@ x = 5
 print(not(x > 3 and x < 10))
 
 # returns False because not is used to reverse the result
+
+# if x is false then y
+# if x is true then y is evaluated
+print(0 or 1) ## 1
+print(False or 'hey')
+print('hi' or 'hey')
+print([] or False)
+print(False or [])
