@@ -1,3 +1,3 @@
 myList=["banana","cherry","apple"]
-reverseList=myList.reverse()
+myList.reverse()
 print(myList)
